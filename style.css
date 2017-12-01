@@ -1,5 +1,24 @@
 @media screen and (min-width:0px) {
     /*基本スマホ用*/
+    body{
+        background-color:#33ffdd;
+    }
+    #su{
+        margin: 10px;
+        /*入力するとこ*/
+    }
+    #b{
+        border-radius:40px;
+        background-color: yellow;
+        color: black;
+        /*ボタン*/
+    }
+    div{
+        font-size: 100px;
+        text-align: center;
+        color: #ff22aa;
+        /*数字出るとこ*/
+    }
 }
 
 @media screen and (min-width:1024px){
